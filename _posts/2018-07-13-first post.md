@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      birthday of my blog
-subtitle:   2018 my first blog 
+title:      "birthday of my blog"
+subtitle:   "2018 my first blog" 
 date:       2018-07-13
 author:     GL
 header-img: img/post-bg-2015.jpg
