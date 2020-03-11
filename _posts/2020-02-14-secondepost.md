@@ -5,7 +5,6 @@ subtitle:   2018 my first blog
 date:       2018-07-13
 author:     GL
 header-img: img/post-bg-2015.jpg
-catalog: true
 tags:
     - 生活
     - 博客
