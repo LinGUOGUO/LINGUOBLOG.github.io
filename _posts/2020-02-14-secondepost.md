@@ -28,14 +28,10 @@ Just write Markdown and see what it looks like as you type. And convert it to HT
 [Haut de page](#top "Top") 
 
 <select name="forma" onchange="location = this.value;">
-<option value="facebook.com">Home</option>
-<option value="google.com">Contact</option>
-<option value="github.com">Sitemap</option>
+<option value="https://www.w3schools.com/jsref/event_onchange.asp">Home</option>
+<option value="https://github.com/showdownjs/showdown/issues/337">Contact</option>
+<option value="https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll">Sitemap</option>
 </select>
 
 
-<select>
-<option value="facebook.com">Home</option>
-<option value="google.com">Contact</option>
-<option value="github.com">Sitemap</option>
-</select>
+
