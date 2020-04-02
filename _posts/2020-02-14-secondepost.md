@@ -46,6 +46,10 @@ try 2
 <img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
 
+<img src="https://github.com/linguoguo/linguoguo.github.io/blob/master/img/404-bg.jpg"
+     style="float: left; margin-right: 10px;" />
+
+
 st=>start: Start:>http://www.google.com[blank]
 e=>end:>http://www.google.com
 op1=>operation: My Operation
