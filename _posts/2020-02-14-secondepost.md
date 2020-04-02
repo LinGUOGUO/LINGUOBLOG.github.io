@@ -39,6 +39,14 @@ Just write Markdown and see what it looks like as you type. And convert it to HT
 
 <iframe src="https://linguoguo.github.io/Robert/"  style="border:none;"  ></iframe>            
 
+{% mermaid %}
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+{% endmermaid %}
+
 st=>start: Start:>http://www.google.com[blank]
 e=>end:>http://www.google.com
 op1=>operation: My Operation
