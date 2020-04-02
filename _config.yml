@@ -52,9 +52,7 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
-mermaid:
-  src: 'path/to/mermaid.js'
-gems: [jekyll-mermaid]
+
 
 
 # 评论系统
