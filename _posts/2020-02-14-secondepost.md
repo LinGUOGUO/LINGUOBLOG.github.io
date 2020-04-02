@@ -39,18 +39,13 @@ Just write Markdown and see what it looks like as you type. And convert it to HT
 
 <iframe src="https://linguoguo.github.io/Robert/"  style="border:none;"  ></iframe> 
 
-<iframe src="java.html"  style="border:none;"  ></iframe>   
-try 8
+<iframe src="/maps/java.html"  style="border:none;"  ></iframe>   
+try 0
  
 
 
 <img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
-
-<img src="https://github.com/linguoguo/linguoguo.github.io/blob/master/img/404-bg.jpg"
-     style="float: left; margin-right: 10px;" />
-
-![Image of Yaktocat](https://github.com/linguoguo/linguoguo.github.io/blob/master/img/about-BY-gentle.jpg)
 
 
 
