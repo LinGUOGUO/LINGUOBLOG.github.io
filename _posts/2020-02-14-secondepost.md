@@ -40,7 +40,7 @@ Just write Markdown and see what it looks like as you type. And convert it to HT
 <iframe src="https://linguoguo.github.io/Robert/"  style="border:none;"  ></iframe> 
 
 <iframe src="java.html"  style="border:none;"  ></iframe>   
-try 7
+try 8
  
 
 
@@ -54,7 +54,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
 
 
 
-![Image of Yaktocat](../img/about-BY-gentle.jpg)
+![Image of Yaktocat](/img/about-BY-gentle.jpg)
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
