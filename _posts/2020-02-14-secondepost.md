@@ -40,6 +40,9 @@ Just write Markdown and see what it looks like as you type. And convert it to HT
 <iframe src="https://linguoguo.github.io/Robert/"  style="border:none;"  ></iframe>            
 try 2
 <iframe src="../maps/java.html"  style="border:none;"  ></iframe>   
+<img src="../img/404-bg.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 st=>start: Start:>http://www.google.com[blank]
 e=>end:>http://www.google.com
