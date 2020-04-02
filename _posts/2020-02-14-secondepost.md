@@ -41,8 +41,10 @@ Just write Markdown and see what it looks like as you type. And convert it to HT
 try 2
 <iframe src="../maps/java.html"  style="border:none;"  ></iframe>   
 <img src="../img/avatar_g.jpg"
-     alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+
+<img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
 
 st=>start: Start:>http://www.google.com[blank]
 e=>end:>http://www.google.com
