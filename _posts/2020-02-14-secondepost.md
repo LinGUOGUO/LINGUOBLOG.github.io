@@ -40,8 +40,7 @@ Just write Markdown and see what it looks like as you type. And convert it to HT
 <iframe src="https://linguoguo.github.io/Robert/"  style="border:none;"  ></iframe>            
 try 3
  
-<img src="../img/avatar_g.jpg"
-     style="float: left; margin-right: 10px;" />
+
 
 <img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
