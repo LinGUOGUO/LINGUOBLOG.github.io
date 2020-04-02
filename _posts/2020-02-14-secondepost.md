@@ -40,7 +40,7 @@ Just write Markdown and see what it looks like as you type. And convert it to HT
 <iframe src="https://linguoguo.github.io/Robert/"  style="border:none;"  ></iframe> 
 
 <iframe src="java.html"  style="border:none;"  ></iframe>   
-try 6
+try 7
  
 
 
@@ -50,7 +50,12 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
 <img src="https://github.com/linguoguo/linguoguo.github.io/blob/master/img/404-bg.jpg"
      style="float: left; margin-right: 10px;" />
 
-![Image of Yaktocat](../img/avatar-by.jpg)
+![Image of Yaktocat](https://github.com/linguoguo/linguoguo.github.io/blob/master/img/about-BY-gentle.jpg)
+
+
+
+![Image of Yaktocat](../img/about-BY-gentle.jpg)
+
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
