@@ -12,6 +12,22 @@ tags:
 
 ---
 
+<script src="https://cdn.jsdelivr.net/npm/mermaid@8.4.0/dist/mermaid.min.js"></script>
+
+<div class="mermaid">
+graph TD
+    A(Java)
+    B(Java se)
+    C(Java ee)
+    D(Java me) 
+    
+    A-.->B
+    A-.->C
+    A-.->D
+   
+   	click B "https://linguoguo.github.io/2018/07/13/secondepost/#nomAncre" "This is a link"
+
+</div>
 
 
 # Minimalist Markdown Editor
@@ -40,7 +56,7 @@ Just write Markdown and see what it looks like as you type. And convert it to HT
 <iframe src="https://linguoguo.github.io/Robert/"  style="border:none;"  ></iframe> 
 
 <iframe src="/maps/java.html"  style="border:none;"  ></iframe>   
-try 76
+try 7
  
 
 
