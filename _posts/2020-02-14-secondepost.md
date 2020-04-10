@@ -67,10 +67,10 @@ Just write Markdown and see what it looks like as you type. And convert it to HT
 
 <iframe src="/maps/java.html"  style="border:none;"  ></iframe>   
 
-<iframe src="/maps/java.html"  style="border:none;" width="800" height="400" ></iframe>  
-try 3
- 
+<iframe src="/maps/java.html"  style="border:none;" width="800" height="400" name="iframe_java" ></iframe>  
+<p><a href="/maps/java.html" target="iframe_java">the map</a></p>
 
+try 2
 
 <img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
