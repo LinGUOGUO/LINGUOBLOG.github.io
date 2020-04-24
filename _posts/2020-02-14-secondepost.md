@@ -77,7 +77,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
 
 
 
-![Image of Yaktocat](/img/about-BY-gentle.jpg)
+
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
@@ -106,4 +106,4 @@ blablabla
 
 ## Titre  2
 <a id="nomAncre"></a>
-bilibibli
+contenu
