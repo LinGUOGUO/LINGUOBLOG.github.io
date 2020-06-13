@@ -69,7 +69,7 @@ Just write Markdown and see what it looks like as you type. And convert it to HT
 
 
 
-<iframe src="/maps/java.html"  style="border:none;" height="100%" ></iframe>   
+<iframe src="/maps/java.html"  style="border:none;" width="800" height="800" ></iframe>   
 
 <iframe src="/maps/java.html"  style="border:none;" width="800" height="400" name="iframe_java" ></iframe>  
 <p><a href="/maps/java.html" target="iframe_java">the map</a></p>
