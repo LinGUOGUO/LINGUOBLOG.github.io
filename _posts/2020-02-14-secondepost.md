@@ -68,9 +68,10 @@ Just write Markdown and see what it looks like as you type. And convert it to HT
 
 
 
-
+# map
 <iframe src="/maps/java.html"  style="border:none;" width="800" height="800" ></iframe>   
 
+# map 2
 <iframe src="/maps/java.html"  style="border:none;" width="800" height="400" name="iframe_java" ></iframe>  
 <p><a href="/maps/java.html" target="iframe_java">the map</a></p>
 
@@ -114,8 +115,8 @@ contenu
 
 
 
-<a href="https://linguoguo.github.io/Robert/" target="more">link </a>
-<a href="https://octodex.github.com/images/yaktocat.png" target="more">link 2</a>
+<a href="https://linguoguo.github.io/Robert/" target="more1">link </a>
+<a href="https://octodex.github.com/images/yaktocat.png" target="more1">link 2</a>
 
-<iframe name="more" src="" width="100%" frameBorder="0">
+<iframe name="more1" src="" width="100%" frameBorder="0">
 </iframe>
